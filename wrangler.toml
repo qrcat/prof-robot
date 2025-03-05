@@ -1,0 +1,5 @@
+name = "prof-robot"
+type = "javascript"
+
+[site]
+bucket = "./"  # Path to the folder containing index.html
